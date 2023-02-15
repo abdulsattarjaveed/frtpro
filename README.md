@@ -18,7 +18,7 @@ Primary Azure Technology : Static Web Apps, App Service
 
 Static Web App URL : https://brave-ocean-0a0cbb410.2.azurestaticapps.net
 
-App Services URL : 
+App Services URL : https://brave-ocean-0a0cbb410.2.azurestaticapps.net
 
 MY WEBSITE LINK IS : 
 
